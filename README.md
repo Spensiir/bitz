@@ -1,1 +1,1 @@
-[](https://spensiir.github.io)
+(https://spensiir.github.io)
